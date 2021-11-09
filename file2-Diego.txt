@@ -1,2 +1,1 @@
-test file2, not an empty file
-
+test file2, not an empty file. Edited
