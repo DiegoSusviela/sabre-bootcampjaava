@@ -1,4 +1,4 @@
-# sabre-bootcampjaava
+# Sbre-Bootcamp-Java
 tests for Sabre java bootcamp
 # Repo for tests and projects in Sabre java-bootcamp!
 
