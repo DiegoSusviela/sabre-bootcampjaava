@@ -1,0 +1,3 @@
+5- Trabajar en archivos diferentes (parte 1)
+Ambos participantes deberán crear 2 archivos más cada uno. Los archivos deben tener todos nombres diferentes ¡A ponerse de acuerdo!
+Una vez creados, deberán agregarles contenido, agregarlos al repositorio local y sincronizarlos con el repositorio remoto.
