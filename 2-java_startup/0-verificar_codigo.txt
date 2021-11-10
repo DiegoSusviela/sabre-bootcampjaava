@@ -1,0 +1,18 @@
+Original
+========
+
+String apellido = Gomez;
+int edad = "35";
+boolean = "false";
+String sueldo = 45857.90
+double nombre = "Julián";
+
+
+Solucion:
+========
+String apellido = "Gomez";
+int edad = 35;
+boolean = false;
+String sueldo = "45857.90"
+double nombre = "Julián"; -> not a double convertable
+

@@ -1,0 +1,24 @@
+Originales:
+==========
+
+String 1nombre;
+int edad;
+double $ueldo;
+String @pellido;
+String direccion;
+boolean licencia_de_conducir;
+double estatura de la persona;
+int cantidad-de-hijos;
+
+
+Correcciones:
+==========
+
+String nombre;
+int edad;
+double sueldo;
+String apellido;
+String direccion;
+boolean licencia_de_conducir;
+double estatura_de_la_persona;
+int cantidad-de-hijos;
